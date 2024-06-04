@@ -1,0 +1,42 @@
+.header {
+  font-family: Inter, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0;
+  margin-left: 22px;
+  color: white;
+  position: relative;
+}
+
+.facts {
+  margin-left: 51px;
+  margin-top: 46px;
+  color: white;
+}
+.facts li {
+  font-family: Inter, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.facts li::marker {
+  color: #61DAFB;
+  font-size: 1.4rem;
+}
+
+.content {
+  background: #282D35;
+
+  position: relative;
+  padding-top: 51px;
+}
+
+
+.react_half {
+  position: absolute;
+
+  right: 0;
+  top: 100px;
+
+}
